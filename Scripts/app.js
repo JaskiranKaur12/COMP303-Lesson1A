@@ -9,14 +9,14 @@
 
     function Start()
     {
-        let startvariable=0;//private scope
-      console.log(`%cApp Started..${startvariable}`,"font-size :20px,color: blue; font-size:15px;");
+        let startvariable="My name is Jaskiran Kaur";//private scope
+      console.log(`%cApp Started..${startvariable}`,"color: blue;font-size:60px");
       //console.info
       //console.error
 
 
     }
-     window.addEventListener("load".Start);//eindow-object in javascript
+     window.addEventListener("load",Start);//Window-object in javascript
     //
 
 })();
