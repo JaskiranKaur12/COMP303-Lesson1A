@@ -1,0 +1,25 @@
+{
+  "name": "comp308-lesson1a",
+  "version": "1.0.0",
+  "description": "NodeJS Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaskiranKaur12/COMP303-Lesson1A.git"
+  },
+  "author": "Jaskiran Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaskiranKaur12/COMP303-Lesson1A/issues"
+  },
+  "homepage": "https://github.com/JaskiranKaur12/COMP303-Lesson1A#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  }
+}
